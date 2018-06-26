@@ -13,3 +13,7 @@ function logShout(str) {
 function logWhisper(str) {
   console.log(whisper(str));
 }
+
+function toGrandma(str) {
+  return "I can't hear you!" + str;
+}
