@@ -22,6 +22,5 @@ function toGrandma(str) {
   } else {
     return "I love you, too."
   }
-
 }
 
