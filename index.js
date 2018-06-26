@@ -17,3 +17,4 @@ function logWhisper(str) {
 function toGrandma(str) {
   return "I can't hear you!" + str;
 }
+
